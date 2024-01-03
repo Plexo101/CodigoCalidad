@@ -4,7 +4,7 @@
   <artifactId>codigoCalidad</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>CodigoCalidad</name>
-</project>
+
 
 <dependency>
   <groupId>junit</groupId>
@@ -12,3 +12,5 @@
   <version>4.13.2</version>
   <scope>test</scope>
 </dependency>
+
+</project>
