@@ -59,6 +59,8 @@ public class Gestion {
         }
     }
     
+    
+    
     protected static boolean existeAlumnoEnClase(String nombreAlumno) {
         for (Clase clase : clases) {
             for (Estudiante estudiante : clase.getEstudiantes()) {
